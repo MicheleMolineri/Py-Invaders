@@ -23,3 +23,9 @@ Ricordati di caricare il file Py-InvadersMicrobit.hex sul tuo Microbit.
 
 Si può giocare con microbit V1 e V2 ,viene utilizzato l'accelerometro per muovere la navicella spaziale sullo schermo.
 Si spara ai nemici con il pulsante B.
+
+
+-------------- Screenshots --------------
+
+![Screenshot from 2022-05-26 11-01-23](https://user-images.githubusercontent.com/90928038/170457433-f93df579-fffd-4721-9a8e-1cc6284055e2.png)
+![Screenshot from 2022-05-26 11-02-13](https://user-images.githubusercontent.com/90928038/170457451-a631d1b6-22aa-40be-9184-6ba9ab19c973.png)
