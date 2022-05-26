@@ -272,7 +272,7 @@ def mainGame():
     rmain_game.start()
 
     while True:
-        if level > 1: 
+        if level > 10: 
             won = True
             
         acc , _ , btn_b = q_acceleration.get() , q_button_a.get() , q_button_b.get() 
